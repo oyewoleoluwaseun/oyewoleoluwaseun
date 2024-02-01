@@ -1,5 +1,3 @@
-![Banner Web Developer](https://media.licdn.com/dms/image/D4D16AQHNJRaFK_0ZXg/profile-displaybackgroundimage-shrink_350_1400/0/1670508398119?e=1705536000&v=beta&t=BhlamI-eOlHgrhNDqXGm-WF5fMkoougpeRxsRXFYbsc)
-
 ![Profile views](https://komarev.com/ghpvc/?username=oyewoleoluwaseun&color=2137fc&style=plastic)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-0B7CCF?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oyewoleoluwaseun/)](https:/www.linkedin.com/in/oyewoleoluwaseun/)
 <p>
