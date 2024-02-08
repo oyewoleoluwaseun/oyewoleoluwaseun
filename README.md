@@ -7,7 +7,7 @@
 </p>
 
 
-I am an enthusiastic Frontend Developer 👩💻 with over two and a half years of experience in web layout and development. My expertise includes HTML, CSS, SASS, SCSS, Javascript, Typescript, and Angular, among other technologies. Currently, I am employed as a Frontend Developer specializing in Angular. In this role, I create customized applications, analyze optimal solutions, and implement best practices to achieve project objectives.
+I am an enthusiastic Frontend Developer 💻 with over two and a half years of experience in web layout and development. My expertise includes HTML, CSS, SASS, SCSS, Javascript, Typescript, and Angular, among other technologies. Currently, I am employed as a Frontend Developer specializing in Angular. In this role, I create customized applications, analyze optimal solutions, and implement best practices to achieve project objectives.
 
 My work experience encompasses diverse sectors, including the service industry, financial sector, communication and marketing sector, public sector, energy, and telecommunications. I am well-versed in Agile methodologies, working in sprints, and utilizing tools such as Jira, Bitbucket, Git, Teamwork, and Trello. For communication, I use platforms like Teams or Slack.
 
