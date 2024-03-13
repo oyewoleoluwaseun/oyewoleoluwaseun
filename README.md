@@ -25,7 +25,7 @@ Driven by a love for design, creativity, and challenges, I am always eager to le
 ---
 
 
-<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyewoleoluwaseun&hide=jupyter&langs_count=8&theme=vision-friendly-dark&layout=compact&line_height=40" />
+<img width="42.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyewoleoluwaseun&hide=jupyter_notebook&langs_count=8&theme=vision-friendly-dark&layout=compact&line_height=40" />
 
 ---
 
